@@ -249,3 +249,4 @@ INSERT;{"name":"Lucas Hernandez","dpi":"89012345678901","dateBirth":"1994-07-20"
 INSERT;{"name":"Valeria Torres","dpi":"90123456789012","dateBirth":"1989-08-11", "address":"456 Pine St, Santiago"}
 PATCH;{"name":"Lucas Hernandez", "dpi":"89012345678901","dateBirth":"1999-09-30"}
 DELETE;{"name":"Lucas Hernandez","dpi":"89012345678901"}
+INSERT;{"name":"Lucas Hernandez","dpi":"1111111111"}
